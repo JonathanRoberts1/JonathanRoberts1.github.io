@@ -1,0 +1,29 @@
+﻿
+ 
+body{
+    background-color:lavender
+}
+
+.homepage{
+    
+    text-align:center;
+    font-size: 100px;
+}
+span {
+    display: inline-block;
+    font-weight: bolder;
+    animation: mover 6s linear infinite;
+}
+h2 {
+    position: relative;
+    top: 150px;
+    left: 50px;
+}
+.box {
+    height: 500px;
+    width: 100%;
+    background-color: lavenderblush;
+    margin: 0;
+    display: inline-block;
+    float: initial;
+}
